@@ -18,6 +18,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 
+# Collections for Pages
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 
 
