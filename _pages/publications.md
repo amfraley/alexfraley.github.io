@@ -9,21 +9,31 @@ header:
 
 # **Publications & Media Coverage** 📰📚  
 
-This section highlights my **peer-reviewed research, technical reports, and media coverage** on UAV testing, robotics, AI-driven perception, and emergency response applications.
+This section highlights **peer-reviewed research, technical reports, and media coverage** on UAV testing, robotics, AI-driven perception, and emergency response applications.
 
 ---
 
 ## **📄 Research Publications**
-🚀 **Adapting NIST Aerial Drone Tests for Thermal Identification, Inspection, and Suppression**  
-_NIST Technical Report, 2024_  
-➡️ [Read Full Paper](#)  
+🚀 **Adapting NIST Aerial Drone Tests for Thermal Identification, Inspection, and Suppression of Wildfires**  
+📅 **Published:** December 6, 2024  
+📍 **Conference:** 2025 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC 2025)  
+📌 **Authors:** Alex Fraley, Ethan Nowery, McCarthy Devine, Adam Jacoff, Paul Oh  
+📄 **Abstract:** This paper explores how NIST-developed aerial drone tests can be adapted to simulate **wildfire threats**, providing a framework of **reproducible tests** to evaluate drone system capabilities and operator proficiency in **fire detection, thermal identification, and suppression**.  
+🔗 **Read Full Paper:** [NIST Publication Link](https://www.nist.gov/publications/adapting-nist-aerial-drone-tests-thermal-identification-inspection-and-suppression)  
 
-🚀 **Evaluating 3D Indoor Mapping Capabilities of UAS for First Responder Applications** _(Upcoming)_  
-_Accepted for [Conference Name], 2024_  
-➡️ [Read Full Paper](#)  
+---
 
 🚀 **Outdoor sUAS Drop Tests: Assessing Dynamics, Velocity, and Impact Forces of Falling Drones** _(Upcoming)_  
-➡️ [Read Full Paper](#)  
+📌 **Publication Type:** NIST Internal Report (NIST IR), 2025  
+📄 **Summary:** This upcoming **NIST IR** documents drop test evaluations for **small unmanned aerial systems (sUAS)**, analyzing **freefall dynamics, impact forces, and structural integrity assessments** for emergency response and safety compliance.  
+🔗 **Read Full Report (Coming Soon)**  
+
+---
+
+🚀 **Evaluating 3D Indoor Mapping Capabilities of UAS for First Responder Applications** _(Upcoming)_  
+📌 **Publication Type:** TBD (Pending Venue)  
+📄 **Summary:** Research on the **UAS Mapping Challenge**, evaluating the accuracy and reliability of **3D indoor mapping drones** for first responders in **search-and-rescue, structural inspection, and emergency navigation**.  
+🔗 **Publication Venue TBD**  
 
 ---
 
@@ -46,5 +56,4 @@ My work in **robotics, drone testing, and AI-driven perception** has been featur
 ---
 
 ### **More Resources**
-📂 **[Projects](./projects/)** | 📢 **[About](./about/)** | 📬 **[Contact](./contact/)**
-
+📂 **[Projects](./projects/)** | 📢 **[About](./about/)** | 📬 **[Contact](./contact/)**  
