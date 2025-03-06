@@ -2,19 +2,24 @@
 layout: single
 title: "About"
 permalink: /about/
+header:
+  overlay_image: "/assets/images/uav-flight-testing.jpg"
+  overlay_filter: 0.3
 ---
 
-# About Me
-I'm **Alex Fraley**, a robotics engineer specializing in **UAV testing, AI-driven perception, and autonomous systems**. 
+# **About Me**  
+I'm a **Robotics Engineer at NIST**, working on **UAV testing, AI perception, and robotic autonomy** for **federal agencies, emergency response teams, and military applications**.
 
-### Professional Experience
-- **Robotics Engineer at NIST** - Emergency Response Robots Project
+### **Background**
+- **B.S. Aerospace Engineering, University of Maryland**
 - **FAA Part 107 Certified Drone Pilot**
-- **NASA, RoboCup, and ICRA Challenge Contributor**
+- **Experience in AI, UAV testing, and simulation modeling**
+- **Contributor to RoboCup, ICRA, and emergency robotics standards**
 
-I build test methodologies, AI perception models, and simulation environments for **federal, military, and emergency response applications**.
+### **Current Work**
+- Developing **AI-enhanced UAV perception** models for emergency response.
+- Standardizing UAV testing methods for **federal and military applications**.
+- Creating **3D UAV simulation environments** for testing and evaluation.
 
-### Contact Info
-📧 **Email**: [alexmfraley@gmail.com](mailto:alexmfraley@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/alexmfraley](https://linkedin.com/in/alexmfraley)  
-🐙 **GitHub**: [github.com/amfraley](https://github.com/amfraley)
+### **More About Me**
+📄 **[Resume](./resume/)** | 📂 **[Projects](./projects/)** | 📢 **[Publications](./publications/)**

@@ -3,11 +3,13 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-s
-# Contact Me
-If you’d like to connect, feel free to reach out!
+
+# **Contact Me** 📬  
+
+Have a robotics project, research collaboration, or UAV testing inquiry? Let’s connect!  
 
 📧 **Email**: [alexmfraley@gmail.com](mailto:alexmfraley@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/alexmfraley](https://linkedin.com/in/alexmfraley)  
 🐙 **GitHub**: [github.com/amfraley](https://github.com/amfraley)  
-📍 **Location**: Washington, DC
+
+📄 **[Resume (PDF)](./assets/files/alex-fraley-resume.pdf)**

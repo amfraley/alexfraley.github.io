@@ -2,11 +2,21 @@
 layout: single
 title: "Home"
 permalink: /
+header:
+  overlay_image: "/assets/images/drone-testing-banner.jpg"
+  overlay_filter: 0.3
+  caption: "📍 UAV Testing | AI for Robotics | Emergency Response Automation"
 ---
 
-Welcome to my website! 🚀
+# **Alex Fraley**  
+🚀 **Robotics Engineer | UAV Testing & AI for Autonomous Systems**  
 
-This site showcases my work in **robotics, UAV testing, AI, and perception systems**. Here you’ll find my **resume, research projects, 3D CAD models, and latest updates**.
+I specialize in **UAV testing, AI-driven perception, and robotic autonomy** for **federal, military, and emergency response applications**.
 
-<iframe src="https://3dwarehouse.sketchup.com/model/46716313-9b21-4c0d-8685-80ad64260100/Drone" width="800" height="600"></iframe>
+### **What I Do**
+- **UAV & Robotics Testing** – Standardizing UAV test methods for **NIST, FAA, DOJ, and NATO**.  
+- **AI for Robotics** – Developing **machine learning models for UAV perception & automation**.  
+- **Simulation & Engineering** – Designing **flight simulations, 3D CAD models, and real-world UAV experiments**.  
 
+### **Explore More**
+📄 **[Resume](./resume/)** | 📂 **[Projects](./projects/)** | 📢 **[Publications](./publications/)** | 📬 **[Contact](./contact/)**
