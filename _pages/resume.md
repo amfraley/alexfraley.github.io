@@ -10,7 +10,7 @@ header:
 # **Resume**  
 📍 **Washington, DC** | 📧 [Email](mailto:alexmfraley@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/alexmfraley)  
 
-📄 **[Download Full Resume (PDF)](./assets/files/alex-fraley-resume.pdf)**  
+[📄 Click here to download my resume](https://alexfraley.com/assets/resume.pdf){: .btn .btn--primary}
 
 ---
 

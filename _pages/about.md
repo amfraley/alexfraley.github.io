@@ -8,7 +8,7 @@ header:
 ---
 
 # **About Me**  
-I'm a **Robotics Engineer at NIST**, working on **UAV testing, AI perception, and robotic autonomy** for **federal agencies, emergency response teams, and military applications**.
+"I specialize in UAV test development, AI-driven robotics, and autonomous systems, with a focus on improving safety and operational efficiency in federal, military, and emergency response applications."
 
 ### **Background**
 - **B.S. Aerospace Engineering, University of Maryland**
@@ -22,4 +22,7 @@ I'm a **Robotics Engineer at NIST**, working on **UAV testing, AI perception, an
 - Creating **3D UAV simulation environments** for testing and evaluation.
 
 ### **More About Me**
-📄 **[Resume](./resume/)** | 📂 **[Projects](./projects/)** | 📢 **[Publications](./publications/)**
+### Download My Resume
+
+ 📂 **[Projects](./projects/)** | 📢 **[Publications](./publications/)** | 
+[📄 Click here to download my resume](https://alexfraley.com/assets/resume.pdf){: .btn .btn--primary}
