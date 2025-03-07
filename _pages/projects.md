@@ -2,21 +2,22 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+header:
+  overlay_image: "/assets/images/projects-banner.jpg"
+  overlay_filter: 0.3
 ---
 
-# Projects
-Here are some of the key projects I've worked on:
+# **Projects & Research**  
 
-## UAV Testing & Standards
-- Developed wildfire suppression UAV test methods for XPRIZE Wildfire.
-- Designed confined-space UAV maneuverability trials in ISO containers.
+## **🔥 Wildfire Suppression UAV Tests**  
+🛠 **Developing AI-driven UAV firefighting technologies**  
+📌 **[Read More →](./projects/wildfire-uav-testing/)**  
 
-## AI & Computer Vision
-- Integrated YOLO-OCR for UAV thermal imaging analysis.
-- Developed particle filter-based localization algorithms.
+## **📡 AI-Driven Perception Models for UAVs**  
+🤖 **Using machine learning for real-time UAV data analysis**  
+📌 **[Read More →](./projects/ai-uav-perception/)**  s
 
-## Robotics & Simulation
-- Created 3D CAD models of UAV test environments.
-- Led AI-enhanced UAV perception research.
-
-Check out my [GitHub](https://github.com/amfraley) for more projects (to be updated in the near-future).
+## **🌍 3D Mapping for Emergency Response**  
+🚁 **Testing UAV LiDAR & 3D mapping for disaster relief**  
+📌 **[Read More →](./projects/3d-mapping-uavs/)**  
+s

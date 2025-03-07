@@ -13,10 +13,32 @@ header:
 
 I specialize in **UAV testing, AI-driven perception, and robotic autonomy** for **federal, military, and emergency response applications**.
 
-### **What I Do**
-- **UAV & Robotics Testing** – Standardizing UAV test methods for **NIST, FAA, DOJ, and NATO**.  
-- **AI for Robotics** – Developing **machine learning models for UAV perception & automation**.  
-- **Simulation & Engineering** – Designing **flight simulations, 3D CAD models, and real-world UAV experiments**.  
+## **🔹 What I Do**
+- 🛠 **UAV & Robotics Testing** – Developing standardized UAV test methods for **NIST, FAA, DOJ, and NATO**.  
+- 🤖 **AI for Robotics** – Creating **machine learning models for UAV perception & automation**.  
+- 🏗 **Simulation & Engineering** – Designing **flight simulations, 3D CAD models, and real-world UAV experiments**.  
 
-### **Explore More**
-📄 **[Resume](./resume/)** | 📂 **[Projects](./projects/)** | 📢 **[Publications](./publications/)** | 📬 **[Contact](./contact/)**
+---
+
+## **🚀 Featured Projects**
+📌 **Wildfire Suppression UAV Tests** 🔥  
+📌 **AI-Driven Perception Models for UAVs** 🤖  
+📌 **3D Mapping for Emergency Response** 🌍  
+
+📂 **[See More Projects →](./projects/)**
+
+---
+
+## **📚 Latest Research & Publications**
+- **Adapting NIST Aerial Drone Tests for Thermal Identification & Suppression** 📄  
+- **Evaluating 3D Indoor Mapping Capabilities of UAVs** 🌍  
+- **Drop Testing sUAS for Safety & Compliance** 🚁  
+
+📄 **[View All Publications →](./publications/)**
+
+---
+
+### **📬 Get in Touch**
+📧 **Email**: [alexmfraley@gmail.com](mailto:alexmfraley@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/alexmfraley](https://linkedin.com/in/alexmfraley)  
+🐙 **GitHub**: [github.com/amfraley](https://github.com/amfraley)  

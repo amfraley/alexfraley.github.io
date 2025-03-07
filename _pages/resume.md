@@ -10,23 +10,22 @@ header:
 # **Resume**  
 📍 **Washington, DC** | 📧 [Email](mailto:alexmfraley@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/alexmfraley)  
 
-[📄 Click here to download my resume](https://alexfraley.com/assets/resume.pdf){: .btn .btn--primary}
+[📄 **Click here to download my resume**](https://alexfraley.com/assets/resume.pdf){: .btn .btn--primary}
 
 ---
 
-## **Professional Experience**
+## **👨‍💻 Professional Experience**
 ### **National Institute of Standards and Technology (NIST)**
 - **Robotics Engineer (Dec 2023 – Present)**
 - Developing UAV test methods for **NIST, FAA, DOJ, and NATO**.
 - Implementing **AI-driven UAV perception models for real-time analysis**.
 
-### **Education**
-🎓 **B.S. Aerospace Engineering, University of Maryland**  
+### **🎓 Education**
+- **B.S. Aerospace Engineering, University of Maryland**  
 
-### **Certifications & Skills**
+### **🛠 Certifications & Skills**
 - **FAA Part 107 Certified Drone Pilot**  
 - **Python, C++, MATLAB, ROS 2, OpenCV, YOLO, JSBSim**  
 - **3D CAD (SolidWorks, Google SketchUp), UAV LiDAR & Perception**  
 
----
-📢 **[Projects](./projects/)** | 📢 **[Publications](./publications/)** | 📬 **[Contact](./contact/)**
+📢 **[Projects](./projects/)** | 📢 **[Publications](./publications/)** | 📬 **[Contact](./contact/)**  
