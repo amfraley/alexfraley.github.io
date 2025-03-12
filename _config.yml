@@ -1,26 +1,29 @@
 # site settings
-title: Massively
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: "Alex Fraley"
+subtitle: "Roboticist | Drone Test Methods & AI Simulation | Research Engineer at NIST"
+email: "alexmfraley@gmail.com"
+description: "A portfolio showcasing my work in UAV testing, AI simulation, and robotics research."
+baseurl: ""  # Leave blank for GitHub Pages to work with a custom domain
+url: "https://alexfraley.com"  # Your custom domain
+
+
+author: "Alex Fraley"
+street_address: "Bethesda, MD"
+city: "Bethesda"
+state: "Maryland"
+zip_code: ""
+country: "United States"
+phone: ""  # Optional
 
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/andrewbanchich
-gitlab_url: https://gitlab.com/u/andrewbanchich
+github_url: "https://github.com/amfraley"
+linkedin_url: "https://www.linkedin.com/in/alexmfraley/"
+# github_url: https://github.com/andrewbanchich
+# gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
@@ -30,3 +33,24 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# ✅ GitHub Pages Deployment
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 🔥 Custom Domain for GitHub Pages
+domain: "alexfraley.com"
+
+# 🔧 Collections (for projects, publications, etc.)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+# 📂 Image Paths (For Your 100 Photos)
+image_path: "/assets/images/"
