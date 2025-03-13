@@ -1,14 +1,14 @@
 # site settings
 title: "Alex Fraley"
-subtitle: "Roboticist | Drone Test Methods & AI Simulation | Research Engineer at NIST"
+subtitle: "Robotic Research Engineer | Robot Test Method Development | AI Simulation"
 email: "alexmfraley@gmail.com"
-description: "A portfolio showcasing my work in UAV testing, AI simulation, and robotics research."
+description: "Portfolio website showcasing some of my recent academic and professional work, focused on my contributions to the development of test methods as a robotic researcher."
 baseurl: ""  # Leave blank for GitHub Pages to work with a custom domain
 url: "https://alexfraley.com"  # Your custom domain
 
 
 author: "Alex Fraley"
-street_address: "Bethesda, MD"
+street_address: "Washington, DC Area"
 city: "Bethesda"
 state: "Maryland"
 zip_code: ""
@@ -16,17 +16,17 @@ country: "United States"
 phone: ""  # Optional
 
 # social settings
-500px_url:
-facebook_url:
+# 500px_url:
+# facebook_url:
 github_url: "https://github.com/amfraley"
 linkedin_url: "https://www.linkedin.com/in/alexmfraley/"
-# github_url: https://github.com/andrewbanchich
-# gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url:
-instagram_url:
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+# github_url: 
+# gitlab_url: 
+# googleplus_url:
+# instagram_url:
+# pinterest_url:
+# slack_url:
+#twitter_url: 
 
 # build settings
 markdown: kramdown
@@ -51,6 +51,9 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
+  media:
+    output: true
+    permalink: /media/:path/
 
 # 📂 Image Paths (For Your 100 Photos)
 image_path: "/assets/images/"
