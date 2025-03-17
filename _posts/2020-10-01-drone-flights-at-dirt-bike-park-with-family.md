@@ -1,24 +1,12 @@
 ---
 layout: post
-title: "Drone Flights at Dirt Bike Park with Family"
-date: "2020-10-01"
-description: "Description to be added later."
-image: "assets/images/default.jpg"
+title: "EVENT NAME"
+date: 2020-10-01
+image: /assets/images\2020-10-01-drone-flights-at-dirt-bike-park-with-family/pic01.jpg
 ---
 
-# Drone Flights at Dirt Bike Park with Family
+<span class="date">LOCATION, COUNTRY</span>
 
-## Overview
-Details to be added later.
+# EVENT NAME
 
-## Key Highlights
-- Placeholder for event details
-- Placeholder for technical contributions
-- Placeholder for outcomes and impact
-
-## Images
-![Placeholder](assets/images/default.jpg)
-
----
-
-*This post will be updated soon.*
+(Add your content here.)

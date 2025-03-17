@@ -1,24 +1,12 @@
 ---
 layout: post
-title: "Repairing Kevin Hs Drone"
-date: "2020-11-01"
-description: "Description to be added later."
-image: "assets/images/default.jpg"
+title: "EVENT NAME"
+date: 2020-11-01
+image: /assets/images\2020-11-01-repairing-kevin-hs-drone/pic01.jpg
 ---
 
-# Repairing Kevin Hs Drone
+<span class="date">LOCATION, COUNTRY</span>
 
-## Overview
-Details to be added later.
+# EVENT NAME
 
-## Key Highlights
-- Placeholder for event details
-- Placeholder for technical contributions
-- Placeholder for outcomes and impact
-
-## Images
-![Placeholder](assets/images/default.jpg)
-
----
-
-*This post will be updated soon.*
+(Add your content here.)

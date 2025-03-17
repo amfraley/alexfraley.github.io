@@ -1,24 +1,12 @@
 ---
 layout: post
 title: "Testing Flyaway and RTH of Drones at NIST with Adam (Fishing Pole)"
-date: "2021-07-02"
-description: "Description to be added later."
-image: "assets/images/default.jpg"
+date: 2021-07-02
+image: /assets/images\2021-07-02-testing-flyaway-and-rth-of-drones-at-nist-with-adam-(fishing-pole)/pic01.jpg
 ---
+
+<span class="date">Testing Facility</span>
 
 # Testing Flyaway and RTH of Drones at NIST with Adam (Fishing Pole)
 
-## Overview
-Details to be added later.
-
-## Key Highlights
-- Placeholder for event details
-- Placeholder for technical contributions
-- Placeholder for outcomes and impact
-
-## Images
-![Placeholder](assets/images/default.jpg)
-
----
-
-*This post will be updated soon.*
+(Add your content here.)

@@ -1,24 +1,12 @@
 ---
 layout: post
-title: "Eastern Robot Rodeo - Indianhead MD"
-date: "2021-08-02"
-description: "Description to be added later."
-image: "assets/images/default.jpg"
+title: "EVENT NAME"
+date: 2021-08-02
+image: /assets/images\2021-08-02-eastern-robot-rodeo---indianhead-md/pic01.jpg
 ---
 
-# Eastern Robot Rodeo - Indianhead MD
+<span class="date">LOCATION, COUNTRY</span>
 
-## Overview
-Details to be added later.
+# EVENT NAME
 
-## Key Highlights
-- Placeholder for event details
-- Placeholder for technical contributions
-- Placeholder for outcomes and impact
-
-## Images
-![Placeholder](assets/images/default.jpg)
-
----
-
-*This post will be updated soon.*
+(Add your content here.)

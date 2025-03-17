@@ -1,24 +1,12 @@
 ---
 layout: post
-title: "APSA Class - UND North Dakota - Virtual Support"
-date: "2021-12-03"
-description: "Description to be added later."
-image: "assets/images/default.jpg"
+title: "EVENT NAME"
+date: 2021-12-03
+image: /assets/images\2021-12-03-apsa-class---und-north-dakota---virtual-support/pic01.jpg
 ---
 
-# APSA Class - UND North Dakota - Virtual Support
+<span class="date">LOCATION, COUNTRY</span>
 
-## Overview
-Details to be added later.
+# EVENT NAME
 
-## Key Highlights
-- Placeholder for event details
-- Placeholder for technical contributions
-- Placeholder for outcomes and impact
-
-## Images
-![Placeholder](assets/images/default.jpg)
-
----
-
-*This post will be updated soon.*
+(Add your content here.)

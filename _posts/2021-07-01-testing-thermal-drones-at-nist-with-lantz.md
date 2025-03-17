@@ -1,24 +1,12 @@
 ---
 layout: post
 title: "Testing Thermal Drones at NIST with Lantz"
-date: "2021-07-01"
-description: "Description to be added later."
-image: "assets/images/default.jpg"
+date: 2021-07-01
+image: /assets/images\2021-07-01-testing-thermal-drones-at-nist-with-lantz/pic01.jpg
 ---
+
+<span class="date">Testing Facility</span>
 
 # Testing Thermal Drones at NIST with Lantz
 
-## Overview
-Details to be added later.
-
-## Key Highlights
-- Placeholder for event details
-- Placeholder for technical contributions
-- Placeholder for outcomes and impact
-
-## Images
-![Placeholder](assets/images/default.jpg)
-
----
-
-*This post will be updated soon.*
+(Add your content here.)
