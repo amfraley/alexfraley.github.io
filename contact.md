@@ -6,7 +6,7 @@ title: "Contact Me"
 # Get in Touch
 
 📜 **Resume**  
-**[Download My Resume (PDF)](/assets/resume-alexfraley.pdf)**  
+**[Download My Resume (PDF)](/assets/documents/resume.pdf)**  
 
 📧 **Email**  
 **[alexmfraley@gmail.com](mailto:alexmfraley@gmail.com)**  
