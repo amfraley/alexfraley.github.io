@@ -1,16 +1,16 @@
 # site settings
 title: "Alex Fraley"
-subtitle: "Robotic Research Engineer | Robot Test Method Development and Validation | AI Simulation"
+subtitle: "Robotic Research | Test Engineer | Test Method Development & Validation | AI Simulation | "
 email: "alexmfraley@gmail.com"
-description: "Portfolio website showcasing some of my recent academic and professional work, focused on my contributions to the development of test methods as a robotic researcher."
+description: "Portfolio website showcasing selected academic and professional work, focused largely on recent contributions to the development of test methods as a robotic research engineer."
 baseurl: ""  # Leave blank for GitHub Pages to work with a custom domain
 url: "https://alexfraley.com"  # Your custom domain
 
 
 author: "Alex Fraley"
 street_address: "Washington, DC Area"
-city: "Bethesda"
-state: "Maryland"
+city: 
+state: 
 zip_code: ""
 country: "United States"
 phone: ""  # Optional
