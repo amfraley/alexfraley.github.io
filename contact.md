@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume & Contact
+title: "Resume & Contact"
 ---
 
 # Get in Touch
