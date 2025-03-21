@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Portfolio"
+title: "Portfolio"
 image: assets/images/hero.jpg
 ---
 
