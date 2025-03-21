@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 
-**Featured Projects**
+## Featured Projects
 
 Explore my recent **robotics research, test method developments, and drone flight experiments**.
 
