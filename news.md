@@ -3,7 +3,7 @@ layout: page
 title: "News"
 ---
 
-# Latest Updates in Robotics & AI Testing  
+**Latest Updates in Robotics & AI Testing**
 
 📢 **Featured Talks & Conferences**  
 - 🎤 **Senate Demo Day** – Robotics Legislation Discussion  
