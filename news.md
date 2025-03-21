@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News & Media
+title: "In The News"
 ---
 
 # Latest Updates in Robotics & AI Testing  

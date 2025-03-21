@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projects & Research"
+title: "Projects"
 ---
 
 # Featured Projects
