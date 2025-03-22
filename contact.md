@@ -3,7 +3,6 @@ layout: page
 title: "Contact Me"
 ---
 
-## Get in Touch
 
 📜 **Resume**  
 **[Download My Resume (PDF)](/assets/documents/resume.pdf)**  
