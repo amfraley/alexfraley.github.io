@@ -23,7 +23,7 @@
     <h1>Alex Fraley</h1>
     <h2>Robotics & Test Engineer – UAVs, Autonomy, Simulation</h2>
     <p>My site is currently being redesigned. In the meantime, you can reach me at:</p>
-    <p><strong>Email:</strong> <a href="mailto:alexfraley.aero@gmail.com">alexfraley.aero@gmail.com</a></p>
+    <p><strong>Email:</strong> <a href="mailto:alexmfraley@gmail.com">alexfraley.aero@gmail.com</a></p>
     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alexmfraley" target="_blank">linkedin.com/in/alexmfraley</a></p>
     <!-- Optional: add this once your resume PDF is ready in the repo -->
     <!-- <p><a class="button" href="/files/Alex_Fraley_Resume.pdf" target="_blank">Download Resume (PDF)</a></p> -->
